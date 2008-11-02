@@ -1,0 +1,15 @@
+<BreakingChanges>
+	<Change Fail="False">
+		<Version>4.0.1.449</Version>
+		<Message>This file was created with a later version of Axure RP.
+Please visit www.axure.com to upgrade to latest version of Axure RP.</Message>
+        </Change>
+	<Change Fail="True">
+		<Version>5.0.0.0</Version>
+		<Message>This file was created with a later version of Axure RP.
+Please visit www.axure.com to upgrade to latest version of Axure RP.</Message>
+		<TeamMessage>This Shared Project has been updated to a later version of Axure RP.
+To use this Shared Project, you need to upgrade to version 5.0.
+Please visit www.axure.com to upgrade to latest version of Axure RP.</TeamMessage>
+	</Change>
+</BreakingChanges>
