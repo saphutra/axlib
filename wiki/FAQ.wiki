@@ -4,7 +4,7 @@
 
 .rp is a compressed file format and by default OSX unpack both the .zip and the .rp file it contains. At the present time, our recommendation is to unpack the .zip using Windows (which you need to run Axure RP anyway).
 
-= Why are you providing a .zip file instead of a .rp file =
+= Why are you providing a .zip file instead of a .rp file? =
 
 If you make a .rp file available for direct download from a standard web server, Internet Explorer will append .zip to
 the name of the file. Of course, if a user then tries to unzip it, they'll get a directory of files Axure RP can do nothing with, rather than the original .rp file.
